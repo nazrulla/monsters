@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
